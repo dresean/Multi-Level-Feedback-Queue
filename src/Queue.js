@@ -76,9 +76,9 @@ class Queue {
             this.quantumClock = 0;
             const whatever = this.process.slice(1);
         }
-        else {
-            if()
-        }
+        // else {
+        //     if()
+        // }
     }
 //TODO finish the above fuc
     // Execute a non-blocking process
